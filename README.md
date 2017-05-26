@@ -19,6 +19,8 @@ How can we know that our code complies with the requirements if we don’t write
 Commenting and outlining what a method or class does is, its parameters, and what it returns, as well as possible errors and exceptions. Write the comments as you develop the code and make it a common practice.
 In addition, ensure that your code as a whole comes with at least a guide explaining what it does; indicating its dependencies; and providing instructions on building, testing, installation, and use. This document should be short and sweet; a single README file is often enough.
 
+You can add footnotes to your text as follows.[^2]
+[^2]: This is my awesome footnote.
 
 # Links
 
